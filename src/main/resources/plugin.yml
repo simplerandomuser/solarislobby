@@ -1,0 +1,10 @@
+name: SolarisLobby
+main: me.rud.SolarisLobby
+version: 1.0
+author: Rud
+description: Utilidades para el Lobby.
+api-version: 1.19
+commands:
+  setspawn:
+    description: Establece el punto de aparición
+    usage: /setspawn
